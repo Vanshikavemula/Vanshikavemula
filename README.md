@@ -1,36 +1,69 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-<div align="center">
-# I am Vanshika Vemula 
-# Student | Developer
+# Vanshika Vemula
 
-## **Tech Stack**
+Computer Science undergraduate with a strong focus on backend development and practical system design. I work primarily on building API-driven applications and integrating real-world workflows with clean, usable interfaces.
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="55px" height="55px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="55px" height="55px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="55px" height="55px"></a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="55px" height="55px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="55px" height="55px"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="55px" height="55px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="55px" height="55px"></a>
-<a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="55px" height="55px"></a>
-<a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="55px" height="55px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="55px" height="55px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="55px" height="55px"></a>
+My interests lie in developing reliable backend systems while maintaining a strong emphasis on usability and structured design.
 
+---
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimicloud&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
+## About
 
+I have been working on projects involving API development, workflow automation, and system integrations. My recent work includes building backend services using FastAPI and designing structured onboarding and process flows.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimicloud&theme=dracula&hide_border=true)](https://github.com/kimicloud?tab=repositories)
+I am particularly interested in:
+- Designing clean and maintainable APIs  
+- Structuring scalable backend systems  
+- Integrating third-party services  
+- Applying practical security concepts  
 
+---
 
- </div>
+## Tech Stack
 
+**Languages**  
+Python, JavaScript  
 
+**Frameworks**  
+FastAPI, Flask, Django REST Framework  
 
+**Frontend**  
+HTML, CSS, basic React  
 
-> Social Profiles: 
-  - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="mailto:vanshika.vemula16">Email</a></div>
+**Database & Tools**  
+SQL, SQLAlchemy, Django ORM  
+Git, GitHub  
 
-  
-</div>
+---
+
+## Current Focus
+
+- Improving API architecture and performance  
+- Working with data validation (JSON/XML schemas)  
+- Learning deployment and system design fundamentals  
+- Exploring secure API practices  
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshikavemula&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikavemula&layout=compact)
+
+---
+
+## Contribution Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## Notes
+
+Most of my repositories focus on backend systems, API workflows, and structured application logic. The language distribution above reflects actual usage across my projects.
+
+---
+
+## Contact
+
+Open to collaboration on backend systems, API development, or structured product builds.
