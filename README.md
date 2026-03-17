@@ -54,7 +54,7 @@ Git, GitHub
 
 ## Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vanshikavemula)
 
 ---
 
