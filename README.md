@@ -1,69 +1,71 @@
-# Vanshika Vemula
-
-Computer Science undergraduate with a strong focus on backend development and practical system design. I work primarily on building API-driven applications and integrating real-world workflows with clean, usable interfaces.
-
-My interests lie in developing reliable backend systems while maintaining a strong emphasis on usability and structured design.
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=160&section=header&text=Vanshika%20Vemula&fontSize=32&fontColor=ffffff" />
+</p>
 
 ---
 
 ## About
 
-I have been working on projects involving API development, workflow automation, and system integrations. My recent work includes building backend services using FastAPI and designing structured onboarding and process flows.
-
-I am particularly interested in:
-- Designing clean and maintainable APIs  
-- Structuring scalable backend systems  
-- Integrating third-party services  
-- Applying practical security concepts  
+Computer Science undergraduate focused on backend development, API design, and system workflows.  
+I work on building structured, scalable applications with attention to usability and clean design.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-Python, JavaScript  
-
-**Frameworks**  
-FastAPI, Flask, Django REST Framework  
-
-**Frontend**  
-HTML, CSS, basic React  
-
-**Database & Tools**  
-SQL, SQLAlchemy, Django ORM  
-Git, GitHub  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,flask,django,react,html,css,git,github,mysql" />
+</p>
 
 ---
 
-## Current Focus
+## Current Work
 
-- Improving API architecture and performance  
-- Working with data validation (JSON/XML schemas)  
-- Learning deployment and system design fundamentals  
-- Exploring secure API practices  
+- Backend systems using FastAPI  
+- API integrations and workflow design  
+- Data validation and schema structuring  
+- Exploring secure and scalable architectures  
 
 ---
 
-## GitHub Statistics
+## GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshikavemula&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikavemula&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshikavemula&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikavemula&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" height="160"/>
+</p>
 
 ---
 
 ## Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vanshikavemula)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vanshikavemula&theme=dark&hide_border=true&background=0f172a&ring=38bdf8&fire=22c55e&currStreakLabel=38bdf8" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshikavemula&bg_color=0f172a&color=38bdf8&line=22c55e&point=e2e8f0&hide_border=true" />
+</p>
 
 ---
 
 ## Notes
 
-Most of my repositories focus on backend systems, API workflows, and structured application logic. The language distribution above reflects actual usage across my projects.
+Repositories primarily reflect backend-focused development including API workflows, structured systems, and integrations.
 
 ---
 
 ## Contact
 
-Open to collaboration on backend systems, API development, or structured product builds.
+Open to collaboration on backend systems, API design, and real-world application development.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+</p>
